@@ -31,3 +31,4 @@ module DevCampPortfolio
     config.generators.system_tests = nil
   end
 end
+#testando o git. testando de novo
