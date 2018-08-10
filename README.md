@@ -24,3 +24,24 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+> This is a Ruby on rails 5 application that allows users to create their own portfolios.
+
+### features
+
+- real time chat engine for comments
+- blog
+- portfolios
+- drag and drop interface
+
+### code example
+
+``` ruby
+def my_great_method
+puts "here it"
+end
+```
+
+```javascript
+alert ('hi there');
+```
