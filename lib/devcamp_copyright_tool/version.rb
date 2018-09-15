@@ -1,3 +1,3 @@
-module DevcampCopyrightTool
+module DevcampViewTool
   VERSION = "0.1.0"
 end

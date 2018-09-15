@@ -1,8 +1,8 @@
 require "test_helper"
 
-class DevcampCopyrightToolTest < Minitest::Test
+class DevcampViewToolTest < Minitest::Test
   def test_that_it_has_a_version_number
-    refute_nil ::DevcampCopyrightTool::VERSION
+    refute_nil ::DevcampViewTool::VERSION
   end
 
   def test_it_does_something_useful

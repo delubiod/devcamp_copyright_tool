@@ -1,6 +1,6 @@
-require "devcamp_copyright_tool/version"
-require "devcamp_copyright_tool/renderer"
+require "devcamp_view_tool/version"
+require "devcamp_view_tool/renderer"
 
-module DevcampCopyrightTool
+module DevcampViewTool
   # Your code goes here...
 end

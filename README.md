@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_copyright_tool'
+gem 'devcamp_view_tool'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_copyright_tool
+    $ gem install devcamp_view_tool
 
 ## Usage
 
@@ -30,4 +30,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/devcamp_copyright_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/devcamp_view_tool.
